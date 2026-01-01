@@ -4,40 +4,16 @@
 
 ### 🎓 Computer Engineering PhD Student | 🤖 AI/ML Enthusiast | 💻 Full-Stack Developer
 
-<p align="center">
-  <a href="https://github.com/doruktopcu">
-    <img src="https://img.shields.io/github/followers/doruktopcu?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=doruktopcu&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
-</p>
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=doruktopcu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doruktopcu&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=doruktopcu&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak Stats"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=doruktopcu&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
-</p>
-
 ---
 
 ## 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=doruktopcu&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff" alt="Contribution Graph"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=doruktopcu&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak Stats"/>
 </p>
 
 ---
@@ -70,22 +46,6 @@
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
-
----
-
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/doruktopcu">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/doruktopcu">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
 
 ---
 
