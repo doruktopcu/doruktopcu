@@ -12,10 +12,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=doruktopcu&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff" alt="Contribution Graph"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=doruktopcu&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak Stats"/>
-</p>
-
 ---
 
 ## 💻 Tech Stack
