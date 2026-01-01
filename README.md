@@ -44,8 +44,9 @@
 
 ## 🔥 Recent Activity
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+- 🤖 Working on variety of AI/ML projects in vision and information retrieval
+- 🔬 Exploring cutting-edge deep learning architectures and techniques
+- 📚 Conducting research in Computer Engineering as a PhD student
 
 ---
 
