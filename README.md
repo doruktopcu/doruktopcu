@@ -21,10 +21,8 @@ Based in Ankara · open to relocation (Ireland, UK, EU)
 ### Selected work
 | Project | What it is |
 |---|---|
-| [ASAP-ML](https://github.com/doruktopcu/ASAP-Antibiotic-Susceptibility-and-Antibiogram-Prediction) | 10 ML models for antibiotic-susceptibility prediction on 21,866 curated records — *IEEE TCBB* (2026), first author |
 | [RREM](https://github.com/doruktopcu/RREM-Real-time-Road-Elements-Monitor) | YOLO11 real-time road-element monitor, 20 classes, 0.835 mAP@50 (Apple Silicon + CUDA) |
 | OmniQA ([Chrome](#) · [Firefox](#)) | QA toolkit browser extension: bug reports, responsive testing, Playwright/Cypress test recorder — one of 9 published extensions |
-| V2X-Sim | Cooperative perception for connected vehicles in CARLA (PhD coursework) |
 | *Coming soon* | `release-gate-copilot` — an agent that triages test failures, with an evaluation harness |
 
 ### Tools I use
