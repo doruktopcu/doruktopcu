@@ -5,7 +5,6 @@
 **QA Engineer & Scrum Master · Computer Engineering PhD candidate (Hacettepe) · ML researcher**
 
 I ship software with customers, keep releases honest, and research where ML models and LLMs work better together.
-Based in Ankara · open to relocation (Ireland, UK, EU)
 
 [Website](https://doruktopcu.github.io/CV/) · [LinkedIn](https://www.linkedin.com/in/doruktopcu/) · [Google Scholar](https://scholar.google.com/citations?user=02dFnD0AAAAJ)
 
