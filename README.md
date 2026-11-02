@@ -1,46 +1,53 @@
 <div align="center">
-  
-# 👋 Hi, I'm Doruk Topcu
 
-### 🎓 Computer Engineering PhD Student | 🤖 AI/ML Enthusiast | 💻 Full-Stack Developer
+# Hi, I'm Doruk Topcu
 
----
+**QA Engineer & Scrum Master · Computer Engineering PhD candidate (Hacettepe) · ML researcher**
 
+I ship software with customers, keep releases honest, and research where ML models and LLMs work better together.
+Based in Ankara · open to relocation (Ireland, UK, EU)
 
-## 💻 Tech Stack
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-## 🔥 Recent Activity
-
-- 🤖 Working on variety of AI/ML projects in vision and information retrieval
-- 🔬 Exploring cutting-edge deep learning architectures and techniques
-- 📚 Conducting research in Computer Engineering as a PhD student
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer"/>
-</p>
+[Website](https://doruktopcu.github.io/CV/) · [LinkedIn](https://www.linkedin.com/in/doruktopcu/) · [Google Scholar](https://scholar.google.com/citations?user=02dFnD0AAAAJ)
 
 </div>
+
+---
+
+### What I do
+- **Delivery & quality** — Scrum Master for teams of up to 17; QA lead on a SaaS product used by customers in the UK, USA, Brazil, India and Poland; authored the release checklist that became the team's quality gate.
+- **AI products** — evaluate LLM features in production: prompt evaluation, hallucination root-causing (context overload → targeted retrieval), auditing model output against source data with SQL.
+- **Research** — PhD on ML for biomedical data and LLMs; first-author paper in *IEEE Transactions on Computational Biology and Bioinformatics* (2026).
+
+### Selected work
+| Project | What it is |
+|---|---|
+| [ASAP-ML](https://github.com/doruktopcu/ASAP-Antibiotic-Susceptibility-and-Antibiogram-Prediction) | 10 ML models for antibiotic-susceptibility prediction on 21,866 curated records — *IEEE TCBB* (2026), first author |
+| [RREM](https://github.com/doruktopcu/RREM-Real-time-Road-Elements-Monitor) | YOLO11 real-time road-element monitor, 20 classes, 0.835 mAP@50 (Apple Silicon + CUDA) |
+| OmniQA ([Chrome](#) · [Firefox](#)) | QA toolkit browser extension: bug reports, responsive testing, Playwright/Cypress test recorder — one of 9 published extensions |
+| V2X-Sim | Cooperative perception for connected vehicles in CARLA (PhD coursework) |
+| *Coming soon* | `release-gate-copilot` — an agent that triages test failures, with an evaluation harness |
+
+### Tools I use
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+
+### Certifications
+AWS Certified Machine Learning – Specialty · AWS Certified Solutions Architect – Associate · Claude Certified Architect – Foundations · Google Cloud Digital Leader
+<sub>In progress: Scrum.org PSM I · ISTQB CTFL v4</sub>
+
+### Currently
+- Studying for PSM I and ISTQB Foundation
+- Building a roadmap / study-planner app (Mac first)
+- Writing up a paper on missense-variant pathogenicity classification
+
+<sub>Most of my repositories are private research and early prototypes; the public ones above are the ones worth reading.</sub>
